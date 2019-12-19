@@ -1,0 +1,65 @@
+{
+    "name": "eDataSource",
+    "description": "eDataSource is the leading provider for competitive and inbox deliverability intelligence. Over 25M emails tracked daily for over 90,000 distinct brands",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/397-edatasource.jpg",
+    "tags": [
+        "api provider",
+        "email marketing",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/edatasource\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "eDataSource",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/397-edatasource.jpg",
+            "humanURL": "http:\/\/www.edatasource.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/edatasource-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.edatasource.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.edatasource.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/email-data-source"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/email-data-source"
+        },
+        {
+            "type": "Email",
+            "url": "sales@edatasource.com"
+        },
+        {
+            "type": "Email",
+            "url": "customer-service@edatasource.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/edatasource"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.edatasource.com\/"
+        }
+    ]
+}
